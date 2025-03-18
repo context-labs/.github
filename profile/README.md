@@ -49,5 +49,3 @@ Deploy in under five minutes and immediately start saving on your inference bill
 - [LinkedIn](https://www.linkedin.com/company/inference-net?utm_source=github&utm_medium=readme&utm_campaign=overview)
 
 *© 2025 Use Context, Inc. All Rights Reserved*
-
-[Privacy Policy](https://inference.net/privacy?utm_source=github&utm_medium=readme&utm_campaign=overview) | [Terms of Service](https://inference.net/terms?utm_source=github&utm_medium=readme&utm_campaign=overview)
