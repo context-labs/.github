@@ -1,7 +1,5 @@
 ![inference-net](https://github.com/user-attachments/assets/cdf6fbb6-3d51-4b3f-b2bd-9d1dfdd0f1fd)
 
-# Inference.net
-
 At [Inference.net](https://inference.net/?utm_source=github&utm_medium=readme&utm_campaign=overview), we provide developers and enterprises with access to top-performing large language models (LLMs) through our efficient and cost-effective inference platform. Our offerings include:
 
 ## Available Models
