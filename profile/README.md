@@ -46,4 +46,5 @@ Deploy in under five minutes and immediately start saving on your inference bill
 - [GitHub](https://github.com/context-labs?utm_source=github&utm_medium=readme&utm_campaign=overview)
 - [LinkedIn](https://www.linkedin.com/company/inference-net?utm_source=github&utm_medium=readme&utm_campaign=overview)
 
-*© 2025 Use Context, Inc. All Rights Reserved*
+*© 2026 Use Context, Inc. All Rights Reserved*
+
